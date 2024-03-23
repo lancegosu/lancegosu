@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lance</h1>
+<h1 align="center">👋 Hi, I'm Lance</h1>
 <h3 align="center">A passionate AI engineer from California</h3>
 
 - 🔭 I’m currently working on [LLM Optimization with RAG](https://lcrags.streamlit.app/)
