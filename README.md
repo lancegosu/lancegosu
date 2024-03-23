@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced RAG and AWS**
 
-- 👯 I’m looking to collaborate on **any AI projects!**
+- 👯 I’m looking to collaborate on **any AI projects**
 
 - 🤝 I’m looking for help with **navigating around AWS**
 
