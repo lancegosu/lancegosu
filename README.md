@@ -3,27 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancegosu&label=Profile%20views&color=0e75b6&style=flat" alt="lancegosu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lancegosu" alt="lancegosu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lancegosu" target="blank"><img src="https://img.shields.io/twitter/follow/lancegosu?logo=twitter&style=for-the-badge" alt="lancegosu" /></a> </p>
-
 - 🔭 I’m currently working on [LLM Optimization with RAG](https://lcrags.streamlit.app/)
 
 - 🌱 I’m currently learning **Advanced RAG and AWS**
 
-- 👨‍💻 All of my projects are available at [https://lancen.streamlit.app/](https://lancen.streamlit.app/)
+- 👯 I’m looking to collaborate on **any AI projects!**
+
+- 🤝 I’m looking for help with **getting practical experience**
 
 - 💬 Ask me about **anything AI-related!**
 
 - 📫 How to reach me **lancemnguyen@gmail.com**
 
-- ⚡ Fun fact **I played CS in 1st grade**
+- ⚡ Fun fact **I'm also a pro tennis coach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lancegosu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lancegosu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lancedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lancedin/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/lanceru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lanceru/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
