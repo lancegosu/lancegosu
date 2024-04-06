@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [LLM Optimization with RAG](https://lcrags.streamlit.app/)
 
-- 🌱 I’m currently learning **Advanced RAG and AWS**
+- 🌱 I’m currently learning **Advanced RAG and cloud solutions**
 
 - 👯 I’m looking to collaborate on **any AI projects**
 
-- 🤝 I’m looking for help with **navigating around AWS**
+[comment]: - 🤝 I’m looking for help with ****
 
 - 💬 Ask me about **anything AI-related!**
 
