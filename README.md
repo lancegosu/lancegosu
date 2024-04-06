@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any AI projects**
 
-[comment]: - 🤝 I’m looking for help with ****
+[comment]: <- 🤝 I’m looking for help with ****>
 
 - 💬 Ask me about **anything AI-related!**
 
