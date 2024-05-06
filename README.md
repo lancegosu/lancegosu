@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LLM Optimization with RAG](https://lcrags.streamlit.app/)
 
-- 🌱 I’m currently learning **Advanced RAG and cloud solutions**
+- 🌱 I’m currently learning **Advanced RAG, cloud solutions, and training models**
 
 - 👯 I’m looking to collaborate on **any AI projects**
 
