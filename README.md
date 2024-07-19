@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Advanced RAG and agentic AI**
 
-- 👯 I’m looking to collaborate on **any AI projects**
+- 👯 I’m looking to collaborate on **any SW development projects**
 
 [comment]: <- 🤝 I’m looking for help with ****>
 
-- 💬 Ask me about **anything AI-related!**
+- 💬 Ask me about **anything technology related!**
 
 - 📫 How to reach me **lancemnguyen@gmail.com**
 
