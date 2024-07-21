@@ -4,4 +4,3 @@ I graduated from San Jose State University with a Bachelor's of Science in Kines
 
 💬 Let's connect and talk about software!
 - lancemnguyen@gmail.com
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lancegosu&show_icons=true&locale=en&layout=compact" alt="lancegosu" /></p>
