@@ -5,5 +5,3 @@ I graduated from San Jose State University with a Bachelor's of Science in Kines
 - University of Alberta: Software Design and Architecture by Kenny Wong
 
 💬 Let's connect and talk about software or anything!
-
-lancemnguyen@gmail.com
