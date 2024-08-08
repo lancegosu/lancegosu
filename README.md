@@ -1,7 +1,8 @@
 ### 👋 Welcome
-Hey, I'm Lance, a self-taught software engineer who builds and evaluates AI systems at two startups, [Cyber Partner AI](https://cyberpartnerai.com/) and [Radical AI](https://lab.radicalai.app/).
-I graduated from San Jose State University with a Bachelor's of Science in Kinesiology, and I'm currently in progress to earn two certifications to have a stronger background in computer science:
-- Illinois Tech: Intro to Open Source Operating Systems by Jeremy Hajek
-- University of Alberta: Software Design and Architecture by Kenny Wong
+Hey, I'm Lance, a self-taught software engineer currently building and evaluating AI systems at two startups, [Cyber Partner AI](https://cyberpartnerai.com/) and [Radical AI](https://lab.radicalai.app/).
 
-💬 Let's connect and talk about software or anything!
+My career began in healthcare with a desire to help people directly. Transitioning to technology, I maintained this core value and discovered a passion for developing applications that improve lives and address real-world challenges.
+
+In addition to my tech career, I am also a dedicated tennis coach, successfully training hundreds of students of all ages and skill levels. My coaching philosophy focuses on personalized development and fostering a love for the game.
+
+💬 Let's connect to discuss software, AI, or our shared interests!
