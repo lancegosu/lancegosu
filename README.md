@@ -5,4 +5,4 @@ Originally from a healthcare background, my journey into tech was driven by a de
 
 Beyond tech, I'm a dedicated tennis coach, training students of all ages and skill levels. My coaching philosophy focuses on personalized development - helping athletes become the best versions of themselves both on and off the court.
 
-💬 Let's connect to explore opportunities for collaboration and growth!
+💬 Let's connect to explore opportunities for growth and collaboration!
